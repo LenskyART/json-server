@@ -1,6 +1,11 @@
-'{
-"id":123,
-"name":"lensky",
-"job":"developer",
-"tel":89001112223344
-}'
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
